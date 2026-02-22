@@ -1,0 +1,15 @@
+# Keil build files
+*.o
+*.d
+*.crf
+*.lnp
+*.axf
+*.htm
+*.build_log.htm
+*.dep
+*.map
+*.lst
+*.bak
+*.uvguix.*
+Objects/
+Listings/
